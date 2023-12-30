@@ -1,0 +1,48 @@
+True
+Found 5 device(s).
+Device: 0
+  Name: NVIDIA A100-SXM4-80GB
+  Compute Capability: 8.0
+  Multiprocessors: 108
+  Concurrent threads: 221184
+  GPU clock: 1410 MHz
+  Memory clock: 1593 MHz
+  Total Memory: 81050 MiB
+  Free Memory: 80622 MiB
+Device: 1
+  Name: NVIDIA A100-SXM4-80GB
+  Compute Capability: 8.0
+  Multiprocessors: 108
+  Concurrent threads: 221184
+  GPU clock: 1410 MHz
+  Memory clock: 1593 MHz
+  Total Memory: 81050 MiB
+  Free Memory: 80622 MiB
+Device: 2
+  Name: NVIDIA A100-SXM4-80GB
+  Compute Capability: 8.0
+  Multiprocessors: 108
+  Concurrent threads: 221184
+  GPU clock: 1410 MHz
+  Memory clock: 1593 MHz
+  Total Memory: 81050 MiB
+  Free Memory: 80622 MiB
+Device: 3
+  Name: NVIDIA A100-SXM4-80GB
+  Compute Capability: 8.0
+  Multiprocessors: 108
+  Concurrent threads: 221184
+  GPU clock: 1410 MHz
+  Memory clock: 1593 MHz
+  Total Memory: 81050 MiB
+  Free Memory: 80622 MiB
+Device: 4
+  Name: NVIDIA DGX Display
+  Compute Capability: 7.5
+  Multiprocessors: 14
+  CUDA Cores: 896
+  Concurrent threads: 14336
+  GPU clock: 1395 MHz
+  Memory clock: 5001 MHz
+  Total Memory: 3903 MiB
+  Free Memory: 3850 MiB

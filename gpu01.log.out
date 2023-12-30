@@ -1,0 +1,74 @@
+True
+Found 8 device(s).
+Device: 0
+  Name: NVIDIA A100-SXM4-40GB
+  Compute Capability: 8.0
+  Multiprocessors: 108
+  Concurrent threads: 221184
+  GPU clock: 1410 MHz
+  Memory clock: 1215 MHz
+  Total Memory: 40337 MiB
+  Free Memory: 39920 MiB
+Device: 1
+  Name: NVIDIA A100-SXM4-40GB
+  Compute Capability: 8.0
+  Multiprocessors: 108
+  Concurrent threads: 221184
+  GPU clock: 1410 MHz
+  Memory clock: 1215 MHz
+  Total Memory: 40337 MiB
+  Free Memory: 39920 MiB
+Device: 2
+  Name: NVIDIA A100-SXM4-40GB
+  Compute Capability: 8.0
+  Multiprocessors: 108
+  Concurrent threads: 221184
+  GPU clock: 1410 MHz
+  Memory clock: 1215 MHz
+  Total Memory: 40337 MiB
+  Free Memory: 39920 MiB
+Device: 3
+  Name: NVIDIA A100-SXM4-40GB
+  Compute Capability: 8.0
+  Multiprocessors: 108
+  Concurrent threads: 221184
+  GPU clock: 1410 MHz
+  Memory clock: 1215 MHz
+  Total Memory: 40337 MiB
+  Free Memory: 39920 MiB
+Device: 4
+  Name: NVIDIA A100-SXM4-40GB
+  Compute Capability: 8.0
+  Multiprocessors: 108
+  Concurrent threads: 221184
+  GPU clock: 1410 MHz
+  Memory clock: 1215 MHz
+  Total Memory: 40337 MiB
+  Free Memory: 39920 MiB
+Device: 5
+  Name: NVIDIA A100-SXM4-40GB
+  Compute Capability: 8.0
+  Multiprocessors: 108
+  Concurrent threads: 221184
+  GPU clock: 1410 MHz
+  Memory clock: 1215 MHz
+  Total Memory: 40337 MiB
+  Free Memory: 39920 MiB
+Device: 6
+  Name: NVIDIA A100-SXM4-40GB
+  Compute Capability: 8.0
+  Multiprocessors: 108
+  Concurrent threads: 221184
+  GPU clock: 1410 MHz
+  Memory clock: 1215 MHz
+  Total Memory: 40337 MiB
+  Free Memory: 39920 MiB
+Device: 7
+  Name: NVIDIA A100-SXM4-40GB
+  Compute Capability: 8.0
+  Multiprocessors: 108
+  Concurrent threads: 221184
+  GPU clock: 1410 MHz
+  Memory clock: 1215 MHz
+  Total Memory: 40337 MiB
+  Free Memory: 39920 MiB
