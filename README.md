@@ -203,6 +203,23 @@ Some explanations for the above script:
 -   `--mem=16G`: the amount of memory you want to use.
 
 You can run the `script.sh` in this repository to test the slurm setup.
+After running the `sbatch` command, you will get a job ID as
+
+```
+Submitted batch job 23945
+```
+
+And then watch the output of the job by running:
+
+```bash
+tail -f log.out -n 10000
+```
+
+which is assumed that the output file is `log.out` and the number of lines you want to watch is `10000`.
+The output will be the log of the job as below:
+
+````
+
 
 ### Cancel a job
 
@@ -210,7 +227,7 @@ To cancel a job, run:
 
 ```bash
 scancel <job_id>
-```
+````
 
 where `<job_id>` is the job ID of the job you want to cancel. You can get the job ID by running the `squeue` command and check the ID of the job you want to cancel.
 
