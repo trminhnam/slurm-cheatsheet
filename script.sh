@@ -5,8 +5,8 @@
 #SBATCH --job-name=run
 #SBATCH --output=log.out
 #SBATCH --error=log.out
-#SBATCH --gres=gpu:3
-#SBATCH --nodelist=gpu02
+#SBATCH --gres=gpu:1
+#SBATCH --nodelist=gpu03
 #SBATCH --cpus-per-task=12
 
 
