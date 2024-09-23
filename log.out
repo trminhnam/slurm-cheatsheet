@@ -1,0 +1,33 @@
+Mon Sep 23 14:11:48 2024       
++---------------------------------------------------------------------------------------+
+| NVIDIA-SMI 535.183.06             Driver Version: 535.183.06   CUDA Version: 12.2     |
+|-----------------------------------------+----------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |         Memory-Usage | GPU-Util  Compute M. |
+|                                         |                      |               MIG M. |
+|=========================================+======================+======================|
+|   0  NVIDIA A100-PCIE-40GB          On  | 00000000:64:00.0 Off |                    0 |
+| N/A   25C    P0              32W / 250W |      0MiB / 40960MiB |      0%      Default |
+|                                         |                      |             Disabled |
++-----------------------------------------+----------------------+----------------------+
+                                                                                         
++---------------------------------------------------------------------------------------+
+| Processes:                                                                            |
+|  GPU   GI   CI        PID   Type   Process name                            GPU Memory |
+|        ID   ID                                                             Usage      |
+|=======================================================================================|
+|  No running processes found                                                           |
++---------------------------------------------------------------------------------------+
+True
+index, name, driver_version, memory.total [MiB], memory.used [MiB], memory.free [MiB]
+0, NVIDIA A100-PCIE-40GB, 535.183.06, 40960 MiB, 0 MiB, 40339 MiB
+__Python VERSION: 3.9.18 (main, Sep 11 2023, 13:41:44) 
+[GCC 11.2.0]
+__pyTorch VERSION: 2.1.0+cu121
+__CUDA VERSION
+__CUDNN VERSION: 8902
+__Number CUDA Devices: 1
+__Devices
+Active CUDA Device: GPU 0
+Available devices  1
+Current cuda device  0
